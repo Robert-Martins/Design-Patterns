@@ -5,4 +5,4 @@ const uiFactory = require("./UIFactory");
         uiFactory('light'),
         uiFactory('dark')
     );
-});
+})();;

@@ -6,4 +6,4 @@ const FoodFactory = require('./FoodFactory');
         new FoodFactory['fries']().createFood(),
         new FoodFactory['pizza']().createFood()
     );
-})
+})();

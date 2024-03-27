@@ -16,4 +16,4 @@ const Tv = require("./Tv");
     advancedRemote?.mute();
     
     console.log(tv, radio);
-});
+})();

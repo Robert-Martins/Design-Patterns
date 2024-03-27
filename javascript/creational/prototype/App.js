@@ -6,4 +6,4 @@ const Client = require("./Client");
         client.createClone();
         console.log(client.printClones());
     }
-);
+)();

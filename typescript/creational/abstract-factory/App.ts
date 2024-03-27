@@ -9,4 +9,4 @@ import { ElementFactory } from "./ElementFactory";
             new Atom('O')
         ).toString()
     )
-);
+)();

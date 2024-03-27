@@ -26,4 +26,4 @@ import { User } from "./User";
         externalAuthentication.externalAuthentication(externalUser, users)
     );
 
-});
+})();

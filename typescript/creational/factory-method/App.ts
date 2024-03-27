@@ -6,4 +6,4 @@ import { NotebookFactory } from "./NotebookFactory";
         new NotebookFactory().createProduct().deliverProduct(),
         new KeyboardFactory().createProduct().deliverProduct()
     );
-})
+})();

@@ -10,4 +10,4 @@ import { PoolableObject } from "./PoolableObject"
     const obj1 = pool.borrow();
     obj1?.perform;
     pool.release(obj1);
-})
+})();
